@@ -11,3 +11,8 @@ A really old tool I created many years ago in VB.NET.
 The code is not clean at all.
 
 The photo resolution is quite poor. But it still works, as facebook didn't change the profile layout (at least not on a desktop browser).
+
+## Disclaimer
+```
+"Facebook" is a trademark of "Facebook Inc." and is not endorsing, in any way, "Facebook Cover Creator".
+```
